@@ -8,3 +8,4 @@ def tup():
     print("AFTER INTERCHANGING")
     print("t1: ",t1)
     print("t2: ",t2)
+tup()
