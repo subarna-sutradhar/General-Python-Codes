@@ -31,6 +31,7 @@ print(s.is_empty())
 s.push("A")
 s.push("B")
 s.push("C")
+#also try these
 #print(s.get_stack())
 #s.pop()
 #print(s.get_stack())
