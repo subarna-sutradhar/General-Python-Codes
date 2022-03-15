@@ -8,6 +8,6 @@ class Square:
 
 class Cube(Square):
     def area(self):
-        return super().area() * 6 """super calls the area of Square class"""
+        return super().area() * 6 #"""super calls the area of Square class"""
     def volume(self):
         return super().area() * self.side
