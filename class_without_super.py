@@ -17,4 +17,4 @@ class Cube(Square):
         return face_area * self.side
 
 #s = Square(9)
-s.area()
+#s.area()
